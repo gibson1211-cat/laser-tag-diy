@@ -1,0 +1,11 @@
+# Local credentials. Never commit.
+secrets.h
+**/secrets.h
+
+# Build artifacts
+build/
+**/build/
+*.bin
+*.elf
+*.map
+.pio/
